@@ -1,5 +1,4 @@
-# Kmeans-Market-Basket
-Development of a Hierarchical K-Means Clustering Recommender System Informed by Market Basket Analysis
+# Development of a Hierarchical K-Means Clustering Recommender System Informed by Market Basket Analysis
 
 Leveraging Word2Vec and Market Basket Segmentation to Enhance Personalized Recommendation Algorithms
 
