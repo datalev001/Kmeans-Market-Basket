@@ -2,8 +2,11 @@ import pandas as pd
 import os
 import numpy as np
 
+# download data from https://archive.ics.uci.edu/ml/datasets/Online+Retail+II'
 
-##########data clean and processing
+## read data
+tran_df = pd.read_excel('online_retail_II.xlsx')
+##########data clean and processing'
 # Read the data from 'online_retail_II.xlsx' file
 tran_df = pd.read_excel('online_retail_II.xlsx')
 # Define conditions for data cleaning
