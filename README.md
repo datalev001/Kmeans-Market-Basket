@@ -23,3 +23,4 @@ Following the segmentation of products and customers, these segments serve as th
   •	Establishment of Recommendation Rules among Product Segments (First Layer)
   •	Establishment of Recommendation Rules within Product Segments (Second Layer)
 
+For comprehensive information, kindly refer to the following post: https://medium.com/@datalev/development-of-a-hierarchical-k-means-clustering-recommender-system-informed-by-market-basket-ed54c9a099d6
